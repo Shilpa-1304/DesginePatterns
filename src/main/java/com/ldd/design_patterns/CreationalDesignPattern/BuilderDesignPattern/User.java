@@ -1,4 +1,4 @@
-package com.ldd.design_patterns.BuilderDesignPattern;
+package com.ldd.design_patterns.CreationalDesignPattern.BuilderDesignPattern;
 
 import lombok.Data;
 

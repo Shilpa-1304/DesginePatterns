@@ -1,4 +1,4 @@
-package com.ldd.design_patterns.SingletonPattern;
+package com.ldd.design_patterns.CreationalDesignPattern.SingletonPattern;
 /*
 * This is the best approach for multi theraded singleton design pattern
 * 1. Thread Safe  :  JVM guarantees class loading is thread-safe

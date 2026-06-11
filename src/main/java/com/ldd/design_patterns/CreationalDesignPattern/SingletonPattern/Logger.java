@@ -1,4 +1,4 @@
-package com.ldd.design_patterns.SingletonPattern;
+package com.ldd.design_patterns.CreationalDesignPattern.SingletonPattern;
 //NOTE: Singleton Pattern For Single Threaded Env
 public class Logger {
     private static Logger instance;

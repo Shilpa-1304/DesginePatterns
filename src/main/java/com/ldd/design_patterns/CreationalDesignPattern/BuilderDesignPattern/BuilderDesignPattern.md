@@ -135,4 +135,11 @@ Avoid Builder Pattern when:
 
 ## 14. One-Line Definition
 
-The Builder Pattern is a creational pattern that constructs complex objects step-by-step using a fluent API while avoiding constructor complexity.
+The Builder Pattern is a creational pattern that constructs complex objects step-by-step using a fluent 
+API while avoiding constructor complexity.
+
+## 15. How do you ensure immutability in Builder pattern?
+* Make fields final
+* No setters in User
+* Only Builder can set values
+* Object is created only once via build()
